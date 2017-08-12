@@ -1,14 +1,5 @@
 <?php
 
-/**
- *
- *
- * Copyright (C) 2017 OhNoChan
- * GitHub: http://github.com/ohnochan
- *
- *
- **/
-
 function A1Z26_Encode ($str, $abc)
 {
     $new_str = "";
